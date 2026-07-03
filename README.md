@@ -1,19 +1,19 @@
-- {{[[kanban]]}}
+- {{kanban}}
 	- 1st semester 
-		- [[Multiview geometry TUM SS25]]
-		- [[3DScanningandMotionCapture]]
+		- Multiview geometry TUM SS25
+		- 3DScanningandMotionCapture
 	- 2nd semester
-		- [[Shape-Analysis]]
-		- [[Practical Course: Vision-based Navigation]]
+		- Shape-Analysis
+		- Practical Course: Vision-based Navigation
 	- 3rd semester 
-		- [[Deep Learning For Computer Vision]]
-		- [[Computer Vision III: Detection, Segmentation and Tracking]]
+		- Deep Learning For Computer Vision
+		- Computer Vision III: Detection, Segmentation and Tracking
 	- 4th semester
-		- [[Advanced-Computer-Vision-MIT]]
-		- [[Machine Learning for 3D]]
+		- Advanced-Computer-Vision-MIT
+		- Machine Learning for 3D
 	- 5th semester
-		- [[Practical Course: Deep Learning for Spatial AI]] 
-		- [[Diffusion Model]] 
+		- Practical Course: Deep Learning for Spatial AI 
+		- Diffusion Model 
 	- 6th semester 
-		- [[Applied Foundation Models]]
-		- [[Advanced Topics in 3D Computer Vision]]
+		- Applied Foundation Models
+		- Advanced Topics in 3D Computer Vision

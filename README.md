@@ -17,8 +17,8 @@ The topics approached in this master will be:
 
 | Semester | Courses |
 | --- | --- |
-| 1st trimester | [Multiple View Geometry (3D Computer Vision)](https://cvg.cit.tum.de/teaching/ss2025/mvg) <br> [3D Scanning & Motion Capture](https://niessner.github.io/3DScanning/) |
-| 2nd trimester | [Deep Learning for Computer Vision](https://cs231n.stanford.edu/) <br> [Practical Course: Vision-based Navigation](https://cvg.cit.tum.de/teaching/ss2025/visnav_ss2025) |
+| 1st trimester | [Multiple View Geometry (3D Computer Vision)](https://cvg.cit.tum.de/teaching/ss2025/mvg) <br> [Deep Learning for Computer Vision](https://cs231n.stanford.edu/) |
+| 2nd trimester |  [3D Scanning & Motion Capture](https://niessner.github.io/3DScanning/) <br> [Practical Course: Vision-based Navigation](https://cvg.cit.tum.de/teaching/ss2025/visnav_ss2025) |
 | 3rd trimester | [Machine Learning for 3D](https://www.cs.cit.tum.de/cg/teaching/winter-term-22-23/machine-learning-for-3d-geometry/) <br> [Computer Vision III: Detection, Segmentation and Tracking](https://cvg.cit.tum.de/teaching/ws2023/cv3) |
 | 4th trimester | [Advanced-Computer-Vision](https://scenerepresentations.org/courses/2026/spring/advances-in-cv/)<br> [Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/index.html) |
 
